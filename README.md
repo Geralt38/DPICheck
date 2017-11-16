@@ -1,4 +1,8 @@
-Провайдер: 
+Провайдер: Байкал-Телеком
+
+Скриншот LinkedIn:
+
+![img](https://github.com/Geralt38/DPICheck/blob/master/Capture.PNG)
 
 Текст отчета blockcheck:
 
